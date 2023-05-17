@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nelsonuprety1" alt="nelsonuprety1" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning ** React JS **
 
 - 👨‍💻 All of my projects are available at [https://github.com/nelsonuprety1](https://github.com/nelsonuprety1)
 
 - 📫 How to reach me **nelsonuprety3@gmail.com**
 
-- ⚡ Fun fact **Web Development is Hard🙄**
+- ⚡ Fun fact **Web Development is Fun 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
